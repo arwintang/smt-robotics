@@ -1,3 +1,2 @@
-# smt-robotics
-Satisfiability Modulo Theories for Robotics
-
+# SMT for Robotics
+Performance Guarantee for Robot Mission Using Satisfiability Modulo Theories 
